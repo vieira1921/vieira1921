@@ -1,4 +1,4 @@
-## Hey, eu chamo-me João Vieira e estudo no Curso Tecnico e Gestão de Sistemas Informáticos. 
+## Olá eu sou o João Vieira e estudo num Curso de Técnico e Gestão de Sistemas Informáticos. 
 <div align="center">
   <a href="https://github.com/vieira1921">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieira1921&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
