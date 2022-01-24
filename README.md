@@ -11,7 +11,7 @@
   <img align="center" alt="Vieira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vieira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vieira-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Vieira-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/932647962234998805/932647964457984042/935217439552180274">
+  <img align="right" alt="Vieira-pic" height="150" style="border-radius:50px;" 
 </div>
  
   ##
