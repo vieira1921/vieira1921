@@ -3,8 +3,8 @@
   <a href="https://github.com/vieira1921">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieira1921&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira1921&layout=compact&langs_count=7&theme=dark"/>
-
-  </div>
+    
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vieira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vieira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,7 +13,7 @@
   <img align="center" alt="Vieira-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Vieira-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/527944677576540190/f338912ca5a5b93a69a99254a206f2b0.webp?size=128">
 </div>
-  
+ 
   ##
  
 <div> 
